@@ -2,7 +2,7 @@ package GitBranchApp;
 
 public class mainApp {
 	public static void main(String[] args) {
-		System.out.println("1");
+		System.out.println("MB");
 		Math cMath =new Math();
 		System.out.println();
 		System.out.println(cMath.add(10, 5));
