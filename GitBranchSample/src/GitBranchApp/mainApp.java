@@ -5,7 +5,7 @@ public class mainApp {
 		System.out.println("1");
 		Math cMath =new Math();
 		System.out.println();
-		System.out.println(cMath.add(10, 20));
+		System.out.println(cMath.add(10, 5));
 	}
 }
 class Math{
